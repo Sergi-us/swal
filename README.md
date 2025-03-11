@@ -1,6 +1,6 @@
 # SWAL
 
-SWAL (Simple Wallpaper Aesthetic Loader) ist ein minimalistisches Tool zur Extraktion von Farbpalletten aus Bildern.
+SWAL (Simple Wallpaper Aesthetic Loader) ist ein minimalistisches Tool zur Extraktion von Farbpaletten aus Bildern.
 
 ## Funktionen
 - Extrahiert bis zu 16 Farben aus einem Bild.
@@ -11,7 +11,7 @@ SWAL (Simple Wallpaper Aesthetic Loader) ist ein minimalistisches Tool zur Extra
 ```bash
 make
 ```
-## Bestendteil von Sarbs
+## Bestandteil von Sarbs
 
 und soll langfristig Pywal ersetzen
 
